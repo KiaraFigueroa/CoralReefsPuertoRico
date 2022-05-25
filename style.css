@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+  color:#9686fd;
+  font-family: 'Amiri', serif;
+}
+
+img {
+  height: 477px;
+  width: 1331px;
+}
+
+.tittle {
+color: deeppink;
+  font-family: 'Nanum Myeongjo', serif;
+  }
+
+.Resume {
+color: deepskyblue;
+ font-family: 'Frank Ruhl Libre', serif;
+}
+
+.Context {
+  color: deepskyblue;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+.Where {
+  color: deepskyblue;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+.Activities {
+  color: deepskyblue;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+.Solutions {
+  color: deepskyblue;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+a:hover {
+  color: #93e198;
+}
+
+button {
+ background-color: #1c002e;
+  color: #f9349d;
+}
